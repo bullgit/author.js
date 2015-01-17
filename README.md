@@ -1,6 +1,7 @@
 # author.js
 Facts author or team of a project.
 
+Display of copyright in the console.
 
 ```js
 // use with human (person)
@@ -30,3 +31,9 @@ Author.team({
   version: "1.0.0" 
 });
 ```
+
+-------------
+
+Copyright, 2015 by [Jose Pino](http://twitter.com/jofpin) | Bullgit <3 |
+
+-------------
