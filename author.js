@@ -2,7 +2,7 @@
  *
  * author.js
  *
- * Facts author or team of a project.
+ * Facts author or team of a project in console.
  *
  * Find the project on GitHub: 
  * https://github.com/bullgit/author.js
