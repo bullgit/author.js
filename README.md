@@ -23,7 +23,7 @@ Author.human({
 // use with team
 Author.team({
   project: "Bullgit",  
-  members: ["Jan", "Tim", "Kevin", "Max", "Lucky", "Felix", "Kanu", "Nils", "Olly", "Nick", "Ty", "Jose", "Leeroyd"],
+  members: ["Jan", "Tim", "Kevin", "Max", "Luky", "Felix", "Kanu", "Nils", "Olly", "Nick", "Ty", "Jose", "Leeroyd"],
   website: "http://bullg.it/",
   standards: ["javascript", "html", "css"],
   date: "2015",
