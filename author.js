@@ -17,7 +17,8 @@ var author = (function() {
 
   // Global
   var Author = window.Author = {};
-
+  
+  // base functions
   var self = {
     log: function(value) {
       console.log(value);
