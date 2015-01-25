@@ -4,7 +4,7 @@ Facts author or team of a project.
 Display of copyright in the console.
 
 ```js
-// use with human (person)
+// use with human (person) example!
 Author.human({
   project: "Anonymous",  
   name: "Jose Pino",
@@ -20,7 +20,7 @@ Author.human({
 
 ```
 ```js
-// use with team
+// use with (Team) example!
 Author.team({
   project: "Bullgit",  
   members: ["Jan", "Tim", "Kevin", "Max", "Luky", "Felix", "Kanu", "Nils", "Olly", "Nick", "Ty", "Jose", "Leeroyd"],
