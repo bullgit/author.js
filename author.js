@@ -80,7 +80,7 @@ var author = (function() {
           self.log("Last Update: " + data.lastupdate);
           self.log("Copyright: " + data.date);
           self.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-          self.log("Standars: " + data.standards);
+          self.log("Standards: " + data.standards);
           self.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         } else {
           self.Error();
